@@ -1,0 +1,21 @@
+Description:
+
+a 3-credit course titled Computer Architecture and Organization. 
+It covers the hardware/software interface, bridging high-level programming and physical computer hardware
+
+
+Professor: Dr. Gayathri Sadanala.
+
+
+Reviews: 
+
+1:"Honestly, the best CS professor at Truman. She really wants all her students to succeed. She is very supportive and easy to talk to."
+
+
+2:"Very nice and clear. She is actually funny. The class expectations were clear. 
+The tests are homework and practice tests. Just do the work, and you will be okay."
+
+
+3:"I originally took her in the Spring 2024 semester, where I found her to originally questionable professor, which she was new at that time. 
+Now that I am taking her in Spring 2025, I have noticed that she has greatly improved in her lecture skills and how she structures her class. 
+She is extremely friendly and wants her students to succeed."

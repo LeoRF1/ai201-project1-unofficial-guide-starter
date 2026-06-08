@@ -1,0 +1,28 @@
+Description:
+
+An advanced 3-credit computer science course focused on web application development.
+The course equips students with the modern tools and concepts required to build robust, scalable, and dynamic web applications.
+The course covers a comprehensive blend of frontend and backend web technologies. Core topics generally include , Client-Side Technologies, 
+server side development, database integration.
+
+
+Professor: Dr. kafi Rahman.
+
+
+Reviews:
+
+
+1:"CS315 with Kafi is the way to go. He uses modern and updated course contents to teach this important subkect. 
+He's super nice, approachable, and understanding. 
+He is, however, maybe unclear sometimes about what he expects for assignments, but you can always ask him. Not too much reading either."
+
+
+2:"Detailed oriented and uses lots of examples -- I think Dr Rahman claims students learn by examples and I agree with his approach. 
+Many think-pair-share activities and those are sample questions for the midterm and final exams. 
+I liked the structure of Dr Rahman's class. He wanted all the students to succeed and provided extra credit options."
+
+
+3:"While I've personally never had issues with Kafi, and honestly kind of like him, I've heard big issues about him, especially from female students. 
+My biggest gripe with him personally is the fact that he takes nearly the entire semester to grade most of your work,
+so you don't really know how your standing is in the class until it's over."
+

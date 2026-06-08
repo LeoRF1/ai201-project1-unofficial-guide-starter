@@ -1,0 +1,28 @@
+Description:
+
+
+a core 3-credit course that serves as a fundamental pillar in both the Computer Science and Data Science degrees
+It introduces students to advanced data structures and the algorithmic techniques necessary for efficient problem-solving and software design.
+
+
+Professor: Dr. Kafi Rahman.
+
+
+Reviews: 
+
+1:"Majority of the scores were on the midterm and final exam. However, as explained by Dr Rahman, in this age of gen AI, he is following the traditional classroom approach. 
+There were bonus exam options for the midterm (two bonus exams). 
+In addition, he allowed the students to bring cheat sheet in both the midterm and the final exam. He was helpful."
+
+
+2:"Enjoyed the class in the last semester. Uses the "Think, pair, share" questions in the exam. 
+I think when I was attending his classes, I do not even need to review the materials later -- well explained."
+
+
+3:"horrible. tests are very hard and include stuff way harder than what he taught in class. doesn't grade your assignments until finals week. 
+please avoid this prof at all costs"
+
+
+4:"Dr. Kafi is super nice and funny. He is extremely passionate about the material and seems to love teaching it to us. 
+The slides are super clear, and he never seems annoyed if people have questions. 
+The programming assignments, though, are typically a bit long, and his grading on them seems a little bit obtuse."

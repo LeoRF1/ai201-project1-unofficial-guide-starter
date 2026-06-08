@@ -1,0 +1,31 @@
+Description:
+
+
+The course introduces both the theoretical and practical facets of information security. 
+Students explore how to formulate and address security needs across enterprise, network, and personal computing environments
+
+
+Professor: Dr. Charles Yu.
+
+
+Reviews:
+
+1:"The topics are quite a lot. From the routing, firewalls, data privacy in mobile phone, writing prank viruses, penetration testing, to cryptography, 
+Dr. Yu always manages to guide you into these areas with a relaxed tone. Our group's final project was writing a prank virus, 
+and it was my first time writing such a program. It was really fun."
+
+
+2:"Dr. Yu is funny, respectful of your time, and engaging. It's clear that he really cares about you as a student and that he wants you to succeed. 
+The class is pretty easy, but that doesn't take away from learning at all, and if you have a chance to take a course with him, 
+I'd absolutely do it 10/10 times."
+
+
+3:"There is just one quiz. No exams. 7 homework but is easy. Team project that counts. Well, I guess he used to be a hacker. Isn't it? 
+I agree, the offensive skills are the most FUN part in this class. Not getting any grade yet but I'm sure it wouldn't be a bad one."
+
+
+4:"I took his database and security courses. Only one feeling I got, he seems very knowledgeable! What scares me is that he talked a lot of systems offensive as well as defensive skills in the class. 
+Very nice (and fun) person. He tried to hold this tongue from talking too much offensive stuff and giving materials in cloud computing or cryptography
+
+
+

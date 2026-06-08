@@ -1,0 +1,22 @@
+Description:
+
+an advanced 3-credit course covering the core concepts of AI and its practical research applications. 
+It frequently features the Writing Enhanced (WE) designation and focuses on symbolic computation, natural language understanding, neural networks, 
+learning algorithms, and automated reasoning
+
+
+Professor: Dr. Charles Yu.
+
+Reviews:
+
+1:"Before taking this class, you might want to have some basic stats knowledge, or at least be decent at math. 
+I really liked his explanation of reinforcement learning, it's super cool for making games!"
+
+2:"4 or 5 assignments? I don't remember clearly? All of them are recipe based classic problems. Answers are everywhere on the internet. 
+20% in his final and is the only slightly challenging part. For the final project, 
+I felt like playing a game of LEGO, assembling legs, motherboard, etc. Our team built up a hexapod for obstacle detection. Fun!"
+
+
+3:"AI or ML is very hard and I spent lots of time in it. Dr. Yu teaches like a veteran but he said this is his first time. 
+Very detail explanation in algorithms. Homework are classic problems in Python and we had lots of fun in final project. 
+Final exam is a bit scary but mostly are interview short answers. I am fortunate and got 17/20. Good class!"

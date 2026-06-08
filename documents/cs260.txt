@@ -1,0 +1,27 @@
+Description:
+
+
+3-credit intermediate computer science course that teaches C# software design and development. 
+It builds upon foundational coding concepts, emphasizing modern object-oriented principles, software engineering best practices, 
+and standard design patterns
+
+
+Professor: Dr. Kafi Rahman.
+
+
+Reviews: 
+
+1:"Really a cool prof. He made learning C# interesting to me (he said it is one of the most popular languages, good for future career to keep us interested) 
+and clarified some of my oop concepts (CS181 was hard). 
+Uses funny memes in his lecture slides. He provided bonus exam option. Curves the final score. Will take class with him again.
+
+
+2:"he is a great professor and deserves more recognition."
+
+
+3:"best teacher I've had in a while"
+
+
+4:"I  was thankful I took a previous course on Java and already understood the first half of the course. 
+Don't expect timely feedback on homework assignments. If you get to use printed lecture notes for the midterm/final, PRINT ALL OF THEM. 
+Almost dropped a letter grade in the course with just the final because I didn't print enough notes."

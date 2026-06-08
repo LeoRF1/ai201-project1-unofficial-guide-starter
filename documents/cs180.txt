@@ -1,0 +1,29 @@
+Description
+
+An introduction to computer science and programming. 
+Discussion of the algorithmic approach to problem solving and the use of a high-level language to design and implement problem solution. 
+Includes a one-hour lab.
+
+professor: Dr. Charles Yu.
+
+Reviews:
+
+1:"This dude is sweet, and sometimes he gives off a big boy vibe. Other times, he seems a bit shy. 
+He mentioned that it was his first time teaching CS180. C++ isn't easy. I spent quite a bit of time trying to study. 
+In the end, I transferred to another school's Information Technology program. 
+But I'm still grateful to him for being my first mentor."
+
+
+2:"Dude is super sweet and chill, my class was his first semester teaching so I'd give him some leniency. 
+Lots of lectures, not a ton of homework and a few quizzes, no tests. He's always willing to answer questions and try to help you. 
+With it being cs you'll most likely end up having to teach yourself a lot of the material anyway though."
+
+3:"He is a terrible professor. Even if your code runs perfectly and meets all the assignment requirements, 
+he will find tiny mistakes and deduct points and give you a C. When you ask him questions, he brushes you off with vague excuses. 
+Afterward, he talks behind your back to the TA, calling you stupid and isolating you. (This happened to me.)"
+
+
+4:"The first time I took this course, I got C. The second time, it was Dr. Yu's C++, and I earned an A. 
+Eventually, I even became a TA for that course. I'm so grateful to Dr. Yu for writing me a recommendation letter that got me into a top MS. CS program. 
+Dr. Yu pays attention to the details in programming, and I learned so many valuable lessons."
+

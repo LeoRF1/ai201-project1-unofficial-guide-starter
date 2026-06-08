@@ -16,6 +16,8 @@
 
 ---
 
+I will be using student reviews of truman's computer science courses. This is valuable because the official course descriptions don't reflect the teaching style, exam difficulty, or workload.
+
 ## Document Sources
 
 <!-- List every source you collected documents from.
@@ -33,11 +35,13 @@
 | 7 | | | |
 | 8 | | | |
 | 9 | | | |
-| 10 | | | |
+| 10 | | ||
 
 ---
 
-## Chunking Strategy
+
+
+## Chunking Stgy
 
 <!-- Describe your chunking approach with enough specificity that someone else could reproduce it.
      Include:
@@ -48,11 +52,18 @@
 
 **Chunk size:**
 
+
+
 **Overlap:**
+
+
 
 **Why these choices fit your documents:**
 
+
+
 **Final chunk count:**
+
 
 ---
 
@@ -88,7 +99,7 @@
 ## Evaluation Report
 
 <!-- Run your 5 test questions from planning.md through your system and record the results.
-     Be honest — a partially accurate or inaccurate result that you explain well is more
+     Be honest — a partially accu or inaccu result that you explain well is more
      valuable than a suspiciously perfect result. -->
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
@@ -100,7 +111,7 @@
 | 5 | | | | | |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
-**Response accuracy:** Accurate / Partially accurate / Inaccurate
+**Response accuracy:** Accu / Partially accu / Inaccu
 
 ---
 
@@ -145,7 +156,7 @@
      change, override, or direct differently?
 
      "I used Claude to help me code" is not sufficient.
-     "I gave Claude my Chunking Strategy section from planning.md and asked it to implement
+     "I gave Claude my Chunking Stgy section from planning.md and asked it to implement
      chunk_text(). It returned a function using a fixed character split. I overrode the
      chunk size from 500 to 200 because my documents are short reviews, not long guides." -->
 

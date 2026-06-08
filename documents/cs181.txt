@@ -1,0 +1,32 @@
+Description
+
+A continuation of Foundations of Computer Science I. This course uses programming in an object-oriented language. 
+Subjects covered include methods, references, simple inheritance, UML, recursion
+, linked structures, exception handling, and introduction to algorithm analysis.
+
+
+professor : Dr. Charles Yu.
+
+
+Reviews:
+
+1:"He uses his own slides, not the copy from book seller, saving me the time of reading through entire chapter. 
+Exam1 is similar to assignments, nothing unexpected. He doesn't put a requirement to ask students come to the class, but you better to come. 
+His explanations are quite detail and you don't have to worry about not understanding the class."
+
+2:"He gets very detail explanations in the slides. I don't even need to read the textbook. 
+Attendance is not required and this gave me lots of flexibility in my schedules.
+I had heard of this class (C++) is hard but for me it is reasonable. 
+Lots of homework, but I would like to say those are small practices rather than time consuming homework."
+
+
+3:"I took this D* class 3 times!! Either ended up in a drop or a D!! This time, hopefully I'm getting at least a B! Nice person. 
+Tons of homework but is not hard, though. 
+Grading in the exams is lenient. He provides chances for makeup exams. There will be a bonus homework in the end."
+
+
+4:"I took his CS180/CS181 classes, but in the end, I decided to join another school's CS program. 
+His C++ course is not easy but I'm super into programming tech. 
+Anyway, I'm still really grateful for the solid foundation he provided and for his recommendation letter."
+
+

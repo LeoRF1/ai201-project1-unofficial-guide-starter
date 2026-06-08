@@ -1,0 +1,25 @@
+Description:
+
+is an advanced 3-credit course. It explores the theoretical principles and practical applications of managing large datasets. 
+The curriculum heavily covers relational database architecture, data modeling (like Entity-Relationship diagrams), and Structured Query Language (SQL)
+
+
+Professor: Dr. Charles Yu.
+
+
+Reviews:
+
+
+
+1:"This course is quite challenging, but his explanations are very thorough, especially the sections on SQL and the ER model. 
+For the ER model, he used a somewhat complex example to explain it and managed to cover everything in just one clas"
+
+
+2:"I am a Mizzou student and took his Database in the summer of this year. If you compare this class to our school's version, ours is more theoretical, 
+for example, more Relational Algebra, but I like Dr. Yu's more. 
+His NoSQL especially in Neo4j is very interesting. Our team build up a fabulous project by using Firebase and OpenAI API. Good ending!"
+
+
+3:"This dude seems knowledgeable, but the material is less organized. I think I would've learned a lot more if we spent more time. 
+This guy spent a lot of time in NoSQL which is rarely covered in the traditional database. 
+No exams. Programming homework is little bit challenging but is fun. Overall, I am glad to have Dr. Yu added to the CS department."
